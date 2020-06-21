@@ -6,11 +6,11 @@ Our challenege consistd of three different parts
 - Have Customers Narrow Their Travel Searches Based on Temperature and Precipitation
 - Create a Travel Itinerary with a Corresponding Map
 - The files and images that relate to this challenge are as follows:
-- Weather_Database.ipynb
-- Vacation_Search.ipynb
-- Vacation_Itinerary.ipynb
-- WeatherPy_database.csv
-- WeaterPy_vacation.csv
-- WeatherPy_vacatio_map.png
-- WeatherPy_travel_map.png
-- WeatherPy_travel_map_markers.png
+  - Weather_Database.ipynb
+  - Vacation_Search.ipynb
+  - Vacation_Itinerary.ipynb
+  - WeatherPy_database.csv
+  - WeaterPy_vacation.csv
+  - WeatherPy_vacatio_map.png
+  - WeatherPy_travel_map.png
+  - WeatherPy_travel_map_markers.png
