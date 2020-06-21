@@ -11,6 +11,6 @@ Our challenege consistd of three different parts
   - Vacation_Itinerary.ipynb
   - WeatherPy_database.csv
   - WeaterPy_vacation.csv
-  - WeatherPy_vacatio_map.png
+  - WeatherPy_vacation_map_screenshot.png
   - WeatherPy_travel_map.png
   - WeatherPy_travel_map_markers.png
